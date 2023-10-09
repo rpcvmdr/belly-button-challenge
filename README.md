@@ -11,4 +11,4 @@ This involves creating an interactive dashboard which catalogs microbes (operati
 	B. A bubble chart that displays each sample
 	C. A metadata "table" of demographic information for the individuals selected to display their OTUS
 
-The interactive dashboard has been deployed to the hosting service GitHub Pages with the URL: https://rpcvmdr.gitghub.io
+The interactive dashboard has been deployed to the hosting service GitHub Pages with the URL: https://rpcvmdr.github.io
