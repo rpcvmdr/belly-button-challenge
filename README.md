@@ -6,7 +6,8 @@ complete the following requirements of this homework challenge:
 
 This involves creating an interactive dashboard which catalogs microbes (operational taxonomic units (OTUs) in the navels of humans by designing the following:
 
-	A. A horizontal bar chart with a dropdown menu to display the top 10 OTUs from individuals selected individually from the samples.json database
+	A. A horizontal bar chart with a dropdown menu to display the top 10 OTUs from individuals selected individually 
+ 	from the samples.json database
 	B. A bubble chart that displays each sample
 	C. A metadata "table" of demographic information for the individuals selected to display their OTUS
 
